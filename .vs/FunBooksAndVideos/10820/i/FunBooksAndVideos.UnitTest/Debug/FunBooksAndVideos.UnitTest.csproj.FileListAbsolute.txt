@@ -1,0 +1,8 @@
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\b\FunBooksAndVideos.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\b\FunBooksAndVideos.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\b\FunBooksAndVideos.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\b\FunBooksAndVideos.UnitTest\bin\Debug\FunBooksAndVideos.UnitTest.dll
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\b\FunBooksAndVideos.UnitTest\bin\Debug\FunBooksAndVideos.UnitTest.pdb
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\i\FunBooksAndVideos.UnitTest\Debug\FunBooksAndVideos.UnitTest.csprojResolveAssemblyReference.cache
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\i\FunBooksAndVideos.UnitTest\Debug\FunBooksAndVideos.UnitTest.dll
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\i\FunBooksAndVideos.UnitTest\Debug\FunBooksAndVideos.UnitTest.pdb

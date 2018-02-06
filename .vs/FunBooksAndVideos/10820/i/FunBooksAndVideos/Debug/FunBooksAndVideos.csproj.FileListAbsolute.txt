@@ -1,0 +1,5 @@
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\b\FunBooksAndVideos\bin\Debug\FunBooksAndVideos.exe.config
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\b\FunBooksAndVideos\bin\Debug\FunBooksAndVideos.exe
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\b\FunBooksAndVideos\bin\Debug\FunBooksAndVideos.pdb
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\i\FunBooksAndVideos\Debug\FunBooksAndVideos.exe
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\i\FunBooksAndVideos\Debug\FunBooksAndVideos.pdb

@@ -1,0 +1,5 @@
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\b\FunBooksAndVideos.BusinessLogic\bin\Debug\FunBooksAndVideos.BusinessLogic.dll
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\b\FunBooksAndVideos.BusinessLogic\bin\Debug\FunBooksAndVideos.BusinessLogic.pdb
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\i\FunBooksAndVideos.BusinessLogic\Debug\FunBooksAndVideos.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\i\FunBooksAndVideos.BusinessLogic\Debug\FunBooksAndVideos.BusinessLogic.dll
+D:\FunBooksAndVideos\FunBooksAndVideos\.vs\FunBooksAndVideos\10820\i\FunBooksAndVideos.BusinessLogic\Debug\FunBooksAndVideos.BusinessLogic.pdb
